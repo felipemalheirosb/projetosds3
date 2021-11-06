@@ -1,0 +1,9 @@
+postgres://
+vucitvfymjxbiw
+:
+2e002c2f45eb3cfa59b725e2aa2984fd82aa767fedbda9476cbc3c7aeda73a1b
+@
+ec2-54-167-201-170.compute-1.amazonaws.com
+:5432
+/
+d6q0j7hs78ktc5
